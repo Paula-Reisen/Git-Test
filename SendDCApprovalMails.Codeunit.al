@@ -36,4 +36,5 @@ codeunit 64633 "Send DC Approval Mails"
     var
         DefineBaseCalendar: Label 'Define a Base Calendar in the Parameter String';
         BaseCalendarNotFound: Label 'Base Calendar %1 not found';
+        Text01: label 'Text 001';
 }
